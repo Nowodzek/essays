@@ -6,6 +6,7 @@ From 1990-1993 Felix Gonzalez Torres made several instillations of candy. "Uniti
 # "Untitled" (Portrait of Ross)
 
 .ve-media  https://iiif.juncture-digital.org/cc:776cef58-8458-46ae-820d-dc87abb889b8/manifest.json 
+Felix Gonzalez Torres created a list of peramiters for each exhibit that he created. In doing so he left many unanswered questions that created viarables exhibits. 
 
 .ve-media  https://iiif.juncture-digital.org/cc:00b6c4ec-0f9c-4a8d-9796-71fa9bae8bc6/manifest.json 
 
