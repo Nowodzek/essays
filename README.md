@@ -1,4 +1,4 @@
-.ve-header "Felix Gonzalez Torres' simplistic art" cc:ffc5d93f-f31a-4adc-a4b7-372e2a4fa562 
+.ve-header "Felix Gonzalez Torres' simplisity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
 Cuban Born American artist Felix Gonzalez Torres is known for his simple art that has depth to every piece.
 
 .ve-media https://api.artic.edu/api/v1/artworks/152961/manifest.json 
