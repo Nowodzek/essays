@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "piles of candy",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/9036870e-9ec4-19ab-3d73-3cbf79c1af8b",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2668.90625,3558.039306640625,1246.637451171875,1046.900146484375"
+      },
+      "id": "2e4d6caa"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "73fe7cf5"
+  }
+]
