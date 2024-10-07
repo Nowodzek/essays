@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Piece is meant to be interactive",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/4232482b1cc38c2c589d5e3e5fba9d78fd2b7b0313b5ff6c06932df7eb5258c6",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:671.1742553710938,390.1112365722656,69.282470703125,82.43734741210938"
+      },
+      "id": "4232482b"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a9f2a90a"
+  }
+]
