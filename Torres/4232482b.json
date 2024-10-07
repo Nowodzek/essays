@@ -61,26 +61,5 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "80859256"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "Weight of candies always starts off at 175lbs",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://iiif-image.juncture-digital.org/iiif/2/4232482b1cc38c2c589d5e3e5fba9d78fd2b7b0313b5ff6c06932df7eb5258c6",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:763.258544921875,430.4529113769531,110.50115966796875,116.64010620117188"
-      },
-      "id": "4232482b"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "bbeca4ab"
   }
 ]
