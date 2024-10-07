@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "b75024d2"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Shape is a variable, sometimes the piles are square, rectangle, round or organic. This on is piled high",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/4232482b1cc38c2c589d5e3e5fba9d78fd2b7b0313b5ff6c06932df7eb5258c6",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:764.1355590820312,256.8082580566406,109.6241455078125,135.9339599609375"
+      },
+      "id": "4232482b"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "80859256"
   }
 ]
