@@ -15,5 +15,6 @@ The piece is named after his partner Ross who passed away from Aids. Felix Gonza
 
 .ve-media https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json
 
+    - cc:776cef58-8458-46ae-820d-dc87abb889b8
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
 
