@@ -82,5 +82,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "80859256"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location varies. Sometimes in the center of the room, against a wall or in a corner",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/4232482b1cc38c2c589d5e3e5fba9d78fd2b7b0313b5ff6c06932df7eb5258c6",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:786.4988403320312,483.9494934082031,106.1162109375,107.87014770507812"
+      },
+      "id": "4232482b"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "840bd5ce"
   }
 ]
