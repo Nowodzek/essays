@@ -1,15 +1,3 @@
-<html>
-<head>
-<style>
-h1 {text-align: center;}
-p {text-align: left;}
-div {text-align: center;}
-</style>
-</head>
-<body>
-
-</body>
-</html>
 .ve-header "Felix Gonzalez Torres' simplisity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
 Cuban Born American artist Felix Gonzalez Torres is known for his straightforward art that has depth to every piece. His art invites viewers into a new space where the viewer can interract and take a part of the instilation home.
 
@@ -18,7 +6,7 @@ Cuban Born American artist Felix Gonzalez Torres is known for his straightforwar
 From 1990-1993 Felix Gonzalez Torres made several instillations of candy. "Unititled" (Portrait of Ross) is one of those instillations where the weight of the candy is equal to the weight of a man. As the exhibit goes on the viewers take pieces of the candy, resulting in the same decrease that Ross experienced in his life. 
 
 
-<h1>"Untitled" (Portrait of Ross)</h1>
+<h1>"Untitled" (Portrait of Ross in L.A.)</h1>
 
 .ve-media  https://iiif.juncture-digital.org/cc:776cef58-8458-46ae-820d-dc87abb889b8/manifest.json 
 
