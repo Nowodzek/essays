@@ -18,8 +18,8 @@ The Untitled piece is named after his partner Ross who passed away from Aids. Fe
       - https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json width=25%  
       
       
-.ve media https://www.felixgonzalez-torresfoundation.org/works/untitled-veterans-day-sale
-
+.ve media 
+All of Torres' work is titled "untitled" with more details in the parenthesis. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is "Untitled" (Veterans Day Sale. This piece is 
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
 
