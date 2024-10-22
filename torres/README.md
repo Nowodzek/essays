@@ -5,12 +5,14 @@ Cuban Born American artist [Felix Gonzalez Torres](https://en.wikipedia.org/wiki
 
 From 1990-1993 Felix Gonzalez Torres made several instillations of candy. [*"Unititled" (Portrait of Ross in L.A.)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a) is one of those instillations where the weight of the candy is equal to the weight his parnter Ross when he was healthy. As the exhibit goes on the viewers take pieces of the candy, resulting in the same decrease that Ross experienced in his life. 
 
+.ve-media https://collection.mam.org/vmedia/tms768/r_m1995_88_001.jpg
+
 
 # *"Untitled" (Portrait of Ross in L.A.)*
 
 .ve-media  https://iiif.juncture-digital.org/cc:776cef58-8458-46ae-820d-dc87abb889b8/manifest.json 
 
-The Untitled piece is named after his partner Ross who passed away from Aids. Felix Gonzalez Torres created a list of peramiters for each exhibit that he created. In doing so he left many unanswered questions that created viarables in each exhibit. In all there are 20 candy instillations that were created and any can be on exhibit at any time. It is up to the Exhibitor what candies are used, the shape of the candies and if or how often the candies are replenished throughout the exhibit.
+The untitled piece is named after his partner Ross who passed away from Aids. Felix Gonzalez Torres created a list of peramiters for each exhibit that he created. In doing so he left many unanswered questions that created viarables in each exhibit. In all there are 20 candy instillations that were created and any can be on exhibit at any time. It is up to the Exhibitor what candies are used, the shape of the candies and if or how often the candies are replenished throughout the exhibit.
 
 
 .ve-media https://iiif.juncture-digital.org/cc:00b6c4ec-0f9c-4a8d-9796-71fa9bae8bc6/manifest.json left  
@@ -22,7 +24,8 @@ The Untitled piece is named after his partner Ross who passed away from Aids. Fe
 
 # Multiples
 All of Torres' work is titled *"untitled"* with more details in the parenthesis. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is [*"Untitled" (Veterans Day Sale)*](https://collection.mam.org/details.php?id=1691). This piece is a stack of papers. 
-.ve-media  https://iiif.juncture-digital.org/jstor:community.38492993/manifest.json
+
+.ve-media jstor:community.38492993
 
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
