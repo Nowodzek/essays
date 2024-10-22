@@ -19,7 +19,7 @@ The Untitled piece is named after his partner Ross who passed away from Aids. Fe
       
       
 .ve media 
-All of Torres' work is titled "untitled" with more details in the parenthesis. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is "Untitled" (Veterans Day Sale. This piece is 
+All of Torres' work is titled "untitled" with more details in the parenthesis. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is ["Untitled" (Veterans Day Sale)](https://collection.mam.org/details.php?id=1691). This piece is 
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
 
