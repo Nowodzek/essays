@@ -6,19 +6,17 @@ Cuban Born American artist Felix Gonzalez Torres is known for his straightforwar
 From 1990-1993 Felix Gonzalez Torres made several instillations of candy. "Unititled" (Portrait of Ross) is one of those instillations where the weight of the candy is equal to the weight of a man. As the exhibit goes on the viewers take pieces of the candy, resulting in the same decrease that Ross experienced in his life. 
 
 
-<h1>"Untitled" (Portrait of Ross in L.A.)</h1>
+# "Untitled" (Portrait of Ross in L.A.)
 
 .ve-media  https://iiif.juncture-digital.org/cc:776cef58-8458-46ae-820d-dc87abb889b8/manifest.json 
 
 The Untitled piece is named after his partner Ross who passed away from Aids. Felix Gonzalez Torres created a list of peramiters for each exhibit that he created. In doing so he left many unanswered questions that created viarables in each exhibit. In all there are 20 candy instillations that were created and any can be on exhibit at any time. It is up to the Exhibitor what candies are used, the shape of the candies and if or how often the candies are replenished throughout the exhibit.
 
-.ve-media https://iiif.juncture-digital.org/wc:Sunflower.jpg/manifest.json left
-.ve-media wc:Sunflower.jpg right
 
-.ve-media https://iiif.juncture-digital.org/cc:00b6c4ec-0f9c-4a8d-9796-71fa9bae8bc6/manifest.json 
-.ve-media https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json 
+.ve-media https://iiif.juncture-digital.org/cc:00b6c4ec-0f9c-4a8d-9796-71fa9bae8bc6/manifest.json width=75%
+.ve-media https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json width=75%
 
-.ve-media cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1
+
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
 
