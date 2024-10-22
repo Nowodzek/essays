@@ -7,7 +7,7 @@ From 1990-1993 Felix Gonzalez Torres made several instillations of candy. [*"Uni
 
 .ve-media https://collection.mam.org/vmedia/tms768/r_m1995_88_001.jpg
 
-==ferfr=={P2174}
+
 # *"Untitled" (Portrait of Ross in L.A.)*
 
 .ve-media  https://iiif.juncture-digital.org/cc:776cef58-8458-46ae-820d-dc87abb889b8/manifest.json 
