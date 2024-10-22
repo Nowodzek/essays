@@ -1,5 +1,5 @@
 .ve-header "Felix Gonzalez Torres' simplisity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
-Cuban Born American artist Felix Gonzalez Torres is known for his straightforward art that has depth to every piece. His art invites viewers into a new space where the viewer can interract and take a part of the instilation home.
+Cuban Born American artist [Felix Gonzalez Torres](https://en.wikipedia.org/wiki/F%C3%A9lix_Gonz%C3%A1lez-Torres) is known for his straightforward art that has depth to every piece. His art invites viewers into a new space where the viewer can interract and take a part of the instilation home.
 
 .ve-media https://api.artic.edu/api/v1/artworks/152961/manifest.json width=80%
 
@@ -17,12 +17,12 @@ The Untitled piece is named after his partner Ross who passed away from Aids. Fe
 .ve-media https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json right  
       
 
-      
 
 
 
 # Multiples
 All of Torres' work is titled "untitled" with more details in the parenthesis. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is ["Untitled" (Veterans Day Sale)](https://collection.mam.org/details.php?id=1691). This piece is 
+.ve-media jstor:community.38492993/manifest.json  
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
 
