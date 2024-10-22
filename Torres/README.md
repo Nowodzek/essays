@@ -13,8 +13,9 @@ From 1990-1993 Felix Gonzalez Torres made several instillations of candy. "Uniti
 The Untitled piece is named after his partner Ross who passed away from Aids. Felix Gonzalez Torres created a list of peramiters for each exhibit that he created. In doing so he left many unanswered questions that created viarables in each exhibit. In all there are 20 candy instillations that were created and any can be on exhibit at any time. It is up to the Exhibitor what candies are used, the shape of the candies and if or how often the candies are replenished throughout the exhibit.
 
 
-.ve-media https://iiif.juncture-digital.org/cc:00b6c4ec-0f9c-4a8d-9796-71fa9bae8bc6/manifest.json width=50% 
-.ve-media https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json width=50% 
+.ve-media  
+                   - https://iiif.juncture-digital.org/cc:00b6c4ec-0f9c-4a8d-9796-71fa9bae8bc6/manifest.json width=50% 
+                   - https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json width=50% 
 
 
 
