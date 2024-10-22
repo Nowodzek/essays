@@ -17,7 +17,7 @@ The Untitled piece is named after his partner Ross who passed away from Aids. Fe
       - https://iiif.juncture-digital.org/cc:00b6c4ec-0f9c-4a8d-9796-71fa9bae8bc6/manifest.json width=25% 
       - https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json width=25% 
 
-
+The weight must always start at 175 pounds, the weight of Ross when he was healthy. 
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
 
