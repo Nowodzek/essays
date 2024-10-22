@@ -1,5 +1,5 @@
 .ve-header "Felix Gonzalez Torres' simplisity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
-Cuban Born American artist [Felix Gonzalez Torres](https://en.wikipedia.org/wiki/F%C3%A9lix_Gonz%C3%A1lez-Torres) is known for his straightforward art that has depth to every piece. His art invites viewers into a new space where the viewer can interract and take a part of the instilation home.
+Cuban Born American artist ==Felix Gonzalez Torres=={Q1288359} is known for his straightforward art that has depth to every piece. His art invites viewers into a new space where the viewer can interract and take a part of the instilation home.
 
 .ve-media https://api.artic.edu/api/v1/artworks/152961/manifest.json width=80%
 
@@ -18,7 +18,8 @@ The untitled piece is named after his partner Ross who passed away from Aids. Fe
 .ve-media https://iiif.juncture-digital.org/cc:00b6c4ec-0f9c-4a8d-9796-71fa9bae8bc6/manifest.json left  
 .ve-media https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json right  
       
-
+.ve-media 
+https://www.jstor.org/stable/community.14578964
 
 
 
