@@ -3,10 +3,10 @@ Cuban Born American artist [Felix Gonzalez Torres](https://en.wikipedia.org/wiki
 
 .ve-media https://api.artic.edu/api/v1/artworks/152961/manifest.json width=80%
 
-From 1990-1993 Felix Gonzalez Torres made several instillations of candy. ["Unititled" (Portrait of Ross)](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a) is one of those instillations where the weight of the candy is equal to the weight his parnter Ross when he was healthy. As the exhibit goes on the viewers take pieces of the candy, resulting in the same decrease that Ross experienced in his life. 
+From 1990-1993 Felix Gonzalez Torres made several instillations of candy. [*"Unititled" (Portrait of Ross in L.A.)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a) is one of those instillations where the weight of the candy is equal to the weight his parnter Ross when he was healthy. As the exhibit goes on the viewers take pieces of the candy, resulting in the same decrease that Ross experienced in his life. 
 
 
-# "Untitled" (Portrait of Ross in L.A.)
+# *"Untitled" (Portrait of Ross in L.A.)*
 
 .ve-media  https://iiif.juncture-digital.org/cc:776cef58-8458-46ae-820d-dc87abb889b8/manifest.json 
 
@@ -21,8 +21,9 @@ The Untitled piece is named after his partner Ross who passed away from Aids. Fe
 
 
 # Multiples
-All of Torres' work is titled "untitled" with more details in the parenthesis. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is ["Untitled" (Veterans Day Sale)](https://collection.mam.org/details.php?id=1691). This piece is 
-.ve-media jstor:community.38492993/manifest.json  
+All of Torres' work is titled *"untitled"* with more details in the parenthesis. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is [*"Untitled" (Veterans Day Sale)*](https://collection.mam.org/details.php?id=1691). This piece is a stack of papers. 
+.ve-media  https://iiif.juncture-digital.org/jstor:community.38492993/manifest.json
+
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
 
