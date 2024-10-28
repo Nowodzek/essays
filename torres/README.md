@@ -1,6 +1,6 @@
 .ve-header "Felix Gonzalez Torres' simplisity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
 ==Cuban=={Q241} Born American artist ==Felix Gonzalez Torres=={Q1288359} is known for his straightforward art that has depth to every piece. His art invites viewers into a new space where the viewer can interract and take a piece of the instilation home.
-Gonzalez-Torres attended university in ==Puerto Rico=={Q1183} and later moved to New Yourk city.
+Gonzalez-Torres attended university in ==Puerto Rico=={Q1183} and later moved to ==New Yourk city.=={Q60}
 
 .ve-media https://api.artic.edu/api/v1/artworks/152961/manifest.json width=80%
 
@@ -18,7 +18,6 @@ Felix Gonzalez Torres created a list of peramiters for each exhibit that he crea
 .ve-media  
       - https://iiif.juncture-digital.org/cc:00b6c4ec-0f9c-4a8d-9796-71fa9bae8bc6/manifest.json width=25% 
       - https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json width=25%  
-
 
 
 
