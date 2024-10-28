@@ -19,7 +19,7 @@ The Untitled piece is named after his partner Ross who passed away from Aids. Fe
       
 vvvrfvfv      
       
-.ve-media https://iiif.juncture-digital.org/jstor:community.14578964/manifest.json
+
 
 
 
