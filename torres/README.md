@@ -25,9 +25,6 @@ Felix Gonzalez Torres created a list of peramiters for each exhibit that he crea
 # Multiples
 All of Torres' work is titled *"untitled"* with more details in the parenthesis. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is [*"Untitled" (Veterans Day Sale)*](https://collection.mam.org/details.php?id=1691). This piece is a stack of papers is titled Veterans day sale with the words printed on each paper. 
 
-.ve-media jstor:community.38492993
-
-
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
 
