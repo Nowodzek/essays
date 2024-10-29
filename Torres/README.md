@@ -18,9 +18,10 @@ Felix Gonzalez Torres created a list of peramiters for each exhibit that he crea
       - https://iiif.juncture-digital.org/cc:00b6c4ec-0f9c-4a8d-9796-71fa9bae8bc6/manifest.json width=25% 
       - https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json width=25%  
       
+One of the most interesting boundaries of this exhibit is getting over the notion of being in an institution where you are not allowed to touch or get close to exhibits and now you have been invited to do just that. Not only are you allowed to touch the piece you can eat it or even take it home and frame it depending on which work you see of Gonzalez-Torres.
 
 All of Torres' work is titled *"untitled"* with more details in the parenthesis. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is [*"Untitled" (Veterans Day Sale)*](https://collection.mam.org/details.php?id=1691). This piece is a stack of papers is titled Veterans day sale with the words printed on each paper. 
-A full archive of his work and exhibits can be found at the [Felix Gonzalez Torres Foundation](https://www.felixgonzalez-torresfoundation.org/)
+A full archive of his work and exhibits can be found at the [Felix Gonzalez Torres Foundation.](https://www.felixgonzalez-torresfoundation.org/)
 
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
