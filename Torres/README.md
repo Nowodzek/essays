@@ -11,7 +11,7 @@ From 1990-1993 Felix Gonzalez Torres made several [*instillations of candy.*](ht
 
 .ve-media  https://iiif.juncture-digital.org/cc:776cef58-8458-46ae-820d-dc87abb889b8/manifest.json 
 
-Felix Gonzalez Torres created a list of peramiters for each exhibit that he created. In doing so he left many unanswered questions that created viarables in each exhibit. In all there are 20 candy instillations that were created and any number can be on exhibit at any time. It's not uncommon for more than one to be on dispaly at a time. It is up to the Exhibitor what candies are used, the shape of the candies are placed and if or how often the candies are replenished throughout the exhibit. [*"Untitled" (Portrait of Ross in L.A.)*](https://www.felixgonzalez-torresfoundation.org/works/untitled-portrait-of-ross-in-l-a) is one of the most well known of the series, and one of his more personal pieces.
+Felix Gonzalez Torres created a list of peramiters for each exhibit that he created. In doing so he left many unanswered questions that created viarables in each exhibit. In all there are 20 candy instillations that were created and any number can be on exhibit at any time. It's not uncommon for more than one to be on dispaly at a time. It is up to the Exhibitor what candies are used, the shape of the candies are placed and if or how often the candies are replenished throughout the exhibit. [*"Untitled" (Portrait of Ross in L.A.)*](https://felixonline.co.uk/articles/felix-gonzalez-torres-conceptualising-the-hiv-epidemic/) is one of the most well known of the series, and one of his more personal pieces.
 
 
 .ve-media  
