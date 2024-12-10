@@ -29,5 +29,5 @@ A full archive of his work and exhibits can be found at the [Felix Gonzalez Torr
 [^1]: Stefanie Graf, [Felix Gonzalez-Torres: Haunting Works of an Artist Afflicted with AIDS](https://www.thecollector.com/felix-gonzalez-torres-haunting-works-aids-artist/) *The Collector,* May 30, 2021.
 [^2]: Lydia Figes, [Remembering artists impacted by the 1980s AIDS crisis](https://artuk.org/discover/stories/remembering-artists-impacted-by-the-1980s-aids-crisis) *Art UK,* February 20, 2020.
 [^3]:[Felix Gonzalez Torres Foundation Candy Works](https://www.felixgonzalez-torresfoundation.org/works/c/candy-works)
-[^4]:[]()
+[^4]:Nathan Pugh [From Candy to Lightbulbs, Felix Gonzalez-Torres Showed Life and Loss Through Everyday Objects](https://www.smithsonianmag.com/smithsonian-institution/from-candy-to-lightbulbs-felix-gonzalez-torres-showed-life-and-loss-through-everyday-objects-180985302/) *Smithsonian Magazine,* October 24. 2024.
 [^5]:[]()
