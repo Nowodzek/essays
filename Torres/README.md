@@ -1,6 +1,6 @@
 .ve-header "Felix Gonzalez Torres' simplisity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
 ==Cuban=={Q241} Born American artist ==Felix Gonzalez Torres=={Q1288359} is known for his straightforward art that has depth to every piece. His art invites viewers into a new space where the viewer can interract and take a piece of the instilation home.
-Gonzalez-Torres attended university in ==Puerto Rico=={Q1183} and later moved to ==New York city.=={Q60}
+Gonzalez-Torres attended university in ==Puerto Rico=={Q1183} and later moved to ==New York city.=={Q60} [^1]
 
 .ve-media https://api.artic.edu/api/v1/artworks/152961/manifest.json width=80%
 
@@ -25,4 +25,6 @@ A full archive of his work and exhibits can be found at the [Felix Gonzalez Torr
 
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
+
+[^1]: Stefanie Graf, [Felix Gonzalez-Torres: Haunting Works of an Artist Afflicted with AIDS](https://www.thecollector.com/felix-gonzalez-torres-haunting-works-aids-artist/)
 
