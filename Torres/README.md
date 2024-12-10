@@ -26,5 +26,5 @@ A full archive of his work and exhibits can be found at the [Felix Gonzalez Torr
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
 
-[^1]: Stefanie Graf, [Felix Gonzalez-Torres: Haunting Works of an Artist Afflicted with AIDS](https://www.thecollector.com/felix-gonzalez-torres-haunting-works-aids-artist/)
+[^1]: Stefanie Graf, [Felix Gonzalez-Torres: Haunting Works of an Artist Afflicted with AIDS](https://www.thecollector.com/felix-gonzalez-torres-haunting-works-aids-artist/) *The Collector,* May 30, 2021.
 
