@@ -1,5 +1,5 @@
 .ve-header "Felix Gonzalez Torres' simplisity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
-==Cuban=={Q241} Born American artist ==Felix Gonzalez Torres=={Q1288359} is known for his straightforward art that has depth to every piece. His art invites viewers into a new space where the viewer can interract and take a piece of the instilation home.
+==Cuban=={Q241} Born American artist ==Felix Gonzalez Torres=={Q1288359} is known for his straightforward, minimalist art that has depth to every piece. His art invites viewers into a new space where the viewer can interract and take a piece of the instilation home.
 Gonzalez-Torres attended university in ==Puerto Rico=={Q1183} and later moved to ==New York city.=={Q60} [^5]
 
 .ve-media https://api.artic.edu/api/v1/artworks/152961/manifest.json width=80%
@@ -11,7 +11,7 @@ From 1990-1993 Felix Gonzalez Torres made several [*instillations of candy.*](ht
 
 .ve-media  https://iiif.juncture-digital.org/cc:776cef58-8458-46ae-820d-dc87abb889b8/manifest.json 
 
-Felix Gonzalez Torres created a list of peramiters for each exhibit that he created. In doing so he left many unanswered questions that created viarables in each exhibit. In all there are 20 candy instillations that were created and any number can be on exhibit at any time. It's not uncommon for more than one to be on dispaly at a time. It is up to the Exhibitor what candies are used, the shape of the candies are placed and if or how often the candies are replenished throughout the exhibit. [*"Untitled" (Portrait of Ross in L.A.)*](https://felixonline.co.uk/articles/felix-gonzalez-torres-conceptualising-the-hiv-epidemic/) is one of the most well known of the series, and one of his more personal pieces.  [^1] [^3]
+Felix Gonzalez Torres created a list of parameters for each exhibit that he created. In doing so he left many unanswered questions that created variables in each exhibit. In all there are 20 candy instillations that were created, and any number can be on exhibit at any time. It's not uncommon for more than one to be on dispaly at a time. It is up to the Exhibitor what candies are used, the shape of the candies are placed and if or how often the candies are replenished throughout the exhibit. [*"Untitled" (Portrait of Ross in L.A.)*](https://felixonline.co.uk/articles/felix-gonzalez-torres-conceptualising-the-hiv-epidemic/) is one of the most well known of the series, and one of his more personal pieces.  [^1] [^3]
 
 
 .ve-media  
