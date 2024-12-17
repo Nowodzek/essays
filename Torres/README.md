@@ -1,6 +1,9 @@
 .ve-header "Felix Gonzalez Torres' simplisity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
+
+.ve-media flickr:vL87DG width=80% left
 ==Cuban=={Q241} Born American artist ==Felix Gonzalez Torres=={Q1288359} is known for his straightforward, ==minimalist=={Q173436} art that has depth to every piece. Many of the works include everyday objects such as candy, mirrors, stacks of paper and strings of light bulbs. His art invites the public into a new space where the viewer can interact with the art and at times take a piece of the instillation home. 
 Gonzalez-Torres attended university in ==Puerto Rico=={Q1183} and later moved to ==New York city=={Q60} where he lived from 1967 to 1995 and created most of his artwork. Felix Gonzalez Torres passed away in 1996 while living in Miami, Florida. [^5]
+
 
 .ve-media https://api.artic.edu/api/v1/artworks/152961/manifest.json width=80%
 
@@ -19,14 +22,10 @@ The requirements are that there always is an "ideal weight" that the exhibit mus
       - https://iiif.juncture-digital.org/cc:00b6c4ec-0f9c-4a8d-9796-71fa9bae8bc6/manifest.json width=25% 
       - https://iiif.juncture-digital.org/cc:7ac193cf-bfbf-42c0-912a-74ee0f8e62b1/manifest.json width=25%  
       
-One of the most interesting boundaries of this exhibit is getting over the notion of being in an institution where you are not allowed to touch or get close to exhibits and now you have been invited to do just that. Not only are you allowed to touch the piece you can eat it or even take it home and frame it depending on which work you see of Gonzalez-Torres.  [^4] 
+One of the most interesting boundaries of this exhibit is getting over the notion of being in an institution where you are traditionally not allowed to touch or get close to exhibits and now you have been invited to do just that. Not only are you allowed to touch the piece you can eat it or even take it home and frame it depending on which work you see of Gonzalez-Torres.  [^4] 
 
 
 .ve-media flickr:5gu3j1 width=60%
-
-
-
-
 
 Another impactful work by Felix Gonzalez Torres is "Untitled" (Perfect lovers.) Two clocks are hung side by side and start at the same time. As the instilation goes on, like many clocks they fall out of sync and will display different times. This is another representative of Ross and Gonzalez time together and the way that Ross has passed on and Gonzalez-Torres is still alive.
 
