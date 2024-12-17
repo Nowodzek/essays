@@ -21,7 +21,9 @@ The requirements are that there always is an "ideal weight" that the exhibit mus
       
 One of the most interesting boundaries of this exhibit is getting over the notion of being in an institution where you are not allowed to touch or get close to exhibits and now you have been invited to do just that. Not only are you allowed to touch the piece you can eat it or even take it home and frame it depending on which work you see of Gonzalez-Torres.  [^4] 
 
-All of Torres' work is titled *"untitled"* with more details in the parenthesis. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is [*"Untitled" (Veterans Day Sale)*](https://collection.mam.org/details.php?id=1691). This piece is a stack of papers is titled Veterans day sale with the words printed on each paper. 
+Another impactful work by Felix Gonzalez Torres is "Untitled" (Perfect lovers.) Two clocks are hung side by side and start at the same time. As the instilation goes on, like many clocks they fall out of sync and will display different times. This is another representative of Ross and Gonzalez time together and the way that Ross has passed on and Gonzalez-Torres is still alive.
+
+All of Torres' work is titled ==*"untitled"*==(Q97516281) with more details on the piece in the parenthesis next to it. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is [*"Untitled" (Veterans Day Sale)*](https://collection.mam.org/details.php?id=1691). This piece is a stack of papers is titled Veterans day sale with the words printed on each paper. 
 A full archive of his work and exhibits can be found at the [Felix Gonzalez Torres Foundation.](https://www.felixgonzalez-torresfoundation.org/)  [^1] 
 
 
