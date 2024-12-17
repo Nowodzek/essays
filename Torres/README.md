@@ -1,4 +1,4 @@
-.ve-header "Felix Gonzalez Torres' simplisity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
+.ve-header "Felix Gonzalez Torres' simplicity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
 
 ##Felix Gonzalez Torres
 
