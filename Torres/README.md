@@ -9,7 +9,6 @@ Gonzalez-Torres attended university in ==Puerto Rico=={Q1183} and later moved to
 
 From 1990-1993 Felix Gonzalez Torres made several [*instillations of candy.*](https://www.felixgonzalez-torresfoundation.org/works/c/candy-works) [*"Untitled" (Portrait of Ross in L.A.)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a) is a unique work of art because it is an instillation piece and also considered a portrait. Gonzalez-Torres' named the piece after Ross Laycock who was his partner of 8 years.  Ross and Gonzalez-Torres both suffered from HIV and both passed away from ==AIDS=={Q12199} related illnesses. Ross died in 1991 at the age of 32 while Felix Gonzalez Torres passed away a few years later at the age of 39 in 1996. As the exhibit goes on the viewers take pieces of the candy, resulting in the same physical loss that Ross experienced in his life. This piece also speaks on the loss that Felix Gonzalez Torres experienced. [^2] 
 
-.ve-media flickr:vL87DG
 
 # "Untitled" (Portrait of Ross in L.A.)
 
@@ -28,7 +27,7 @@ One of the most interesting aspect of this exhibit getting over the notion of be
 
 .ve-media flickr:5gu3j1 width=60%
 
-Another impactful work by Felix Gonzalez Torres is "Untitled" (Perfect lovers.) Two clocks are hung side by side and start at the same time. As the instilation goes on, like many clocks they fall out of sync and will display different times. This is another representative of Ross and Gonzalez time together and the way that Ross has passed on and Gonzalez-Torres is still alive. The paramiters for this work is that both clocks must be standard, commercial clocks that are 13 1/2." Both clocks must be touching and start at the same time. An interesting conponent of this work is that if one clock stops they must be reset to start over. 
+Another impactful work by Felix Gonzalez Torres is ["Untitled" (Perfect lovers).](https://www.thelondonlist.com/culture/felix-gonzalez-torres) Two clocks are hung side by side and start at the same time. As the instilation goes on, like many clocks they fall out of sync and will display different times. This is another representative of Ross and Gonzalez time together and the way that Ross has passed on and Gonzalez-Torres is still alive. The paramiters for this work is that both clocks must be standard, commercial clocks that are 13 1/2." Both clocks must be touching and start at the same time. An interesting conponent of this work is that if one clock stops they must be reset to start over. 
 
 All of Torres' work is titled ==*"untitled"*==(Q97516281) with more details on the piece in the parenthesis next to it. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is [*"Untitled" (Veterans Day Sale)*](https://collection.mam.org/details.php?id=1691). This piece is a stack of papers is titled Veterans day sale with the words printed on each paper. 
 A full archive of his work and exhibits can be found at the [Felix Gonzalez Torres Foundation.](https://www.felixgonzalez-torresfoundation.org/) 
