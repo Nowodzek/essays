@@ -2,6 +2,7 @@
 
 .ve-media flickr:vL87DG  width=50%
 
+.ve-media wd:Q1288359
 
 
 
@@ -34,7 +35,9 @@ One of the most interesting aspect of this exhibit getting over the notion of be
 
 Another impactful work by Felix Gonzalez Torres is ["Untitled" (Perfect lovers).](https://www.thelondonlist.com/culture/felix-gonzalez-torres) Two clocks are hung side by side and start at the same time. As the instilation goes on, like many clocks they fall out of sync and will display different times. This is another representative of Ross and Gonzalez time together and the way that Ross has passed on and Gonzalez-Torres is still alive. The paramiters for this work is that both clocks must be standard, commercial clocks that are 13 1/2." Both clocks must be touching and start at the same time. An interesting conponent of this work is that if one clock stops they must be reset to start over. 
 
-All of Torres' work is titled ==*"untitled"*==(Q97516281) with more details on the piece in the parenthesis next to it. This image is another example of one of his multiples that he did. On display now at the Milwaukee Art Museum is [*"Untitled" (Veterans Day Sale)*](https://collection.mam.org/details.php?id=1691). This piece is a stack of papers is titled Veterans day sale with the words printed on each paper. 
+##Multiples
+
+All of Torres' work is titled ==*"untitled"*==(Q97516281) with more details on the piece in the parenthesis next to it. On display now at the Milwaukee Art Museum is [*"Untitled" (Veterans Day Sale)*](https://collection.mam.org/details.php?id=1691). This piece is a stack of papers is titled Veterans day sale with the words printed on each paper. 
 A full archive of his work and exhibits can be found at the [Felix Gonzalez Torres Foundation.](https://www.felixgonzalez-torresfoundation.org/) 
 
 
