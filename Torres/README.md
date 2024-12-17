@@ -4,7 +4,7 @@ Gonzalez-Torres attended university in ==Puerto Rico=={Q1183} and later moved to
 
 .ve-media https://api.artic.edu/api/v1/artworks/152961/manifest.json width=80%
 
-From 1990-1993 Felix Gonzalez Torres made several [*instillations of candy.*](https://www.felixgonzalez-torresfoundation.org/works/c/candy-works) [*"Unititled" (Portrait of Ross in L.A.)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a) is a unique instillation because it is a work of art and considered a portrait. Ross Laycock was Gonzalez-Torres' partner Ross and Gonzalez-Torres suffered from HIV and both passed away from ==aids.=={Q12199} As the exhibit goes on the viewers take pieces of the candy, resulting in the same physical loss that Ross experienced in his life. This piece also speaks on the loss that Felix Gonzalez torres experienced. [^2] 
+From 1990-1993 Felix Gonzalez Torres made several [*instillations of candy.*](https://www.felixgonzalez-torresfoundation.org/works/c/candy-works) [*"Unititled" (Portrait of Ross in L.A.)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a) is a unique instillation because it is a work of art and considered a portrait. Ross Laycock was Gonzalez-Torres' partner.Ross and Gonzalez-Torres suffered from HIV and both passed away from ==aids.=={Q12199} As the exhibit goes on the viewers take pieces of the candy, resulting in the same physical loss that Ross experienced in his life. This piece also speaks on the loss that Felix Gonzalez torres experienced. [^2] 
 
 
 # "Untitled" (Portrait of Ross in L.A.)
@@ -27,6 +27,8 @@ A full archive of his work and exhibits can be found at the [Felix Gonzalez Torr
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
 
 [^1]: Stefanie Graf, [Felix Gonzalez-Torres: Haunting Works of an Artist Afflicted with AIDS](https://www.thecollector.com/felix-gonzalez-torres-haunting-works-aids-artist/) *The Collector,* May 30, 2021.
+
+[^1]:[Rounthwaite, Adair. [“Split Witness: Metaphorical Extensions of Life in the Art of Felix Gonzalez-Torres.”](https://www.jstor.org/stable/10.1525/rep.2010.109.1.35) Representations 109, no. 1 (2010): 35–56.
 [^2]: Lydia Figes, [Remembering artists impacted by the 1980s AIDS crisis](https://artuk.org/discover/stories/remembering-artists-impacted-by-the-1980s-aids-crisis) *Art UK,* February 20, 2020.
 [^3]: Alexander Conway [Félix González-Torres: Conceptualising the HIV Epidemic](https://felixonline.co.uk/articles/felix-gonzalez-torres-conceptualising-the-hiv-epidemic/) *Feli, *February 25, 2022.
 [^4]:Nathan Pugh [From Candy to Lightbulbs, Felix Gonzalez-Torres Showed Life and Loss Through Everyday Objects](https://www.smithsonianmag.com/smithsonian-institution/from-candy-to-lightbulbs-felix-gonzalez-torres-showed-life-and-loss-through-everyday-objects-180985302/) *Smithsonian Magazine,* October 24. 2024.
