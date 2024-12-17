@@ -4,7 +4,7 @@ Gonzalez-Torres attended university in ==Puerto Rico=={Q1183} and later moved to
 
 .ve-media https://api.artic.edu/api/v1/artworks/152961/manifest.json width=80%
 
-From 1990-1993 Felix Gonzalez Torres made several [*instillations of candy.*](https://www.felixgonzalez-torresfoundation.org/works/c/candy-works) [*"Unititled" (Portrait of Ross in L.A.)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a) is a unique instillation because it is a work of art and considered a portrait. Ross Laycock was who the artwork was about and he was Gonzalez-Torres' parter of 8 years. Ross and Gonzalez-Torres suffered from HIV and both passed away from ==aids.=={Q12199} As the exhibit goes on the viewers take pieces of the candy, resulting in the same physical loss that Ross experienced in his life. This piece also speaks on the loss that Felix Gonzalez torres experienced. [^2] 
+From 1990-1993 Felix Gonzalez Torres made several [*instillations of candy.*](https://www.felixgonzalez-torresfoundation.org/works/c/candy-works) [*"Unititled" (Portrait of Ross in L.A.)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a) is a unique instillation because it is an instillation piece and also considered a portrait. Gonzalez-Torres' named the piece after Ross Laycock who was his parter of 8 years.  Ross and Gonzalez-Torres both suffered from HIV and both passed away from ==AIDS.=={Q12199} As the exhibit goes on the viewers take pieces of the candy, resulting in the same physical loss that Ross experienced in his life. This piece also speaks on the loss that Felix Gonzalez torres experienced. [^2] 
 
 
 # "Untitled" (Portrait of Ross in L.A.)
