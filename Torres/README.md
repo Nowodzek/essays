@@ -32,7 +32,7 @@ One of the most interesting aspect of this exhibit getting over the notion of be
 
 .ve-media flickr:5gu3j1 width=60%
 
-Another impactful work by Felix Gonzalez Torres is ["Untitled" (Perfect lovers).](https://www.thelondonlist.com/culture/felix-gonzalez-torres) Two clocks are hung side by side and start at the same time. As the instilation goes on, like many clocks they fall out of sync and will display different times. This is another representative of Ross and Gonzalez time together and the way that Ross has passed on and Gonzalez-Torres is still alive. The paramiters for this work is that both clocks must be standard, commercial clocks that are 13 1/2." Both clocks must be touching and start at the same time. An interesting conponent of this work is that if one clock stops they must be reset to start over. 
+Another impactful work by Felix Gonzalez Torres is ["Untitled" (Perfect lovers).](https://www.thelondonlist.com/culture/felix-gonzalez-torres) Two clocks are hung side by side and start at the same time. As the installation goes on, like many clocks they fall out of sync and will display different times. This is another representative of Ross and Gonzalez time together and the way that Ross has passed on and Gonzalez-Torres is still alive. The parameters for this work is that both clocks must be standard, commercial clocks that are 13 1/2." Both clocks must be touching and start at the same time. An interesting component of this work is that if one clock stops they must be reset to start over. 
 
 ##Multiples
 
