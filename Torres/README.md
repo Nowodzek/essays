@@ -1,10 +1,10 @@
 .ve-header "Felix Gonzalez Torres' simplisity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
-==Cuban=={Q241} Born American artist ==Felix Gonzalez Torres=={Q1288359} is known for his straightforward, minimalist art that has depth to every piece. His art invites viewers into a new space where the viewer can interract and take a piece of the instilation home.
+==Cuban=={Q241} Born American artist ==Felix Gonzalez Torres=={Q1288359} is known for his straightforward, ==minimalist=={Q173436} art that has depth to every piece. His art invites the public into a new space where the viewer can interract with the art and at times take a piece of the instilation home. 
 Gonzalez-Torres attended university in ==Puerto Rico=={Q1183} and later moved to ==New York city.=={Q60} [^5]
 
 .ve-media https://api.artic.edu/api/v1/artworks/152961/manifest.json width=80%
 
-From 1990-1993 Felix Gonzalez Torres made several [*instillations of candy.*](https://www.felixgonzalez-torresfoundation.org/works/c/candy-works) [*"Unititled" (Portrait of Ross in L.A.)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a) is a unique instillation because it is considered a portrait. Ross was Gonzalez-Torres' partner Ross and Gonzalez-Torres suffered from HIV and both passed away from ==aids.=={Q12199} As the exhibit goes on the viewers take pieces of the candy, resulting in the same physical loss that Ross experienced in his life. This piece also speaks on the loss that Felix Gonzalez torres experienced. [^2] 
+From 1990-1993 Felix Gonzalez Torres made several [*instillations of candy.*](https://www.felixgonzalez-torresfoundation.org/works/c/candy-works) [*"Unititled" (Portrait of Ross in L.A.)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a) is a unique instillation because it is a work of art and considered a portrait. Ross Laycock was Gonzalez-Torres' partner Ross and Gonzalez-Torres suffered from HIV and both passed away from ==aids.=={Q12199} As the exhibit goes on the viewers take pieces of the candy, resulting in the same physical loss that Ross experienced in his life. This piece also speaks on the loss that Felix Gonzalez torres experienced. [^2] 
 
 
 # "Untitled" (Portrait of Ross in L.A.)
