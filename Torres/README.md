@@ -1,6 +1,11 @@
 .ve-header "Felix Gonzalez Torres' simplisity" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 
 
-.ve-media flickr:vL87DG  left 
+.ve-media flickr:vL87DG  width=50%
+
+
+
+
+
 ==Cuban=={Q241} Born American artist ==Felix Gonzalez Torres=={Q1288359} is known for his straightforward, ==minimalist=={Q173436} art that has depth to every piece. Many of the works include everyday objects such as candy, mirrors, stacks of paper and strings of light bulbs. His art invites the public into a new space where the viewer can interact with the art and at times take a piece of the instillation home. 
 Gonzalez-Torres attended university in ==Puerto Rico=={Q1183} and later moved to ==New York city=={Q60} where he lived from 1967 to 1995 and created most of his artwork. Felix Gonzalez Torres passed away in 1996 while living in Miami, Florida. [^5]
 
