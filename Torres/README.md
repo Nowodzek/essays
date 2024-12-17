@@ -1,4 +1,4 @@
-.ve-header "Minimalsim and Felix Gonzalez Torres" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 sticky
+.ve-header "Minimalism and Felix Gonzalez Torres" cc:963be1d2-0045-4cff-bd20-8edb6b30dd84 sticky
     - [Home](/)
     - [About](/about)
 
