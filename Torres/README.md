@@ -21,7 +21,10 @@ The requirements are that there always is an "ideal weight" that the exhibit mus
       
 One of the most interesting boundaries of this exhibit is getting over the notion of being in an institution where you are not allowed to touch or get close to exhibits and now you have been invited to do just that. Not only are you allowed to touch the piece you can eat it or even take it home and frame it depending on which work you see of Gonzalez-Torres.  [^4] 
 
-.ve-media https://www.jstor.org/stable/community.14565876
+
+.ve-media flickr:5gu3j1 width=60%
+
+
 
 
 
