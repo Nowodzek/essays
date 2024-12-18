@@ -35,7 +35,9 @@ One of the most interesting aspect of this exhibit getting over the notion of be
 Another impactful work by Felix Gonzalez Torres is ["Untitled" (Perfect lovers).](https://www.thelondonlist.com/culture/felix-gonzalez-torres) Two clocks are hung side by side and start at the same time. As the installation goes on, like many clocks they fall out of sync and will display different times. This is another representative of Ross and Gonzalez time together and the way that Ross has passed on and Gonzalez-Torres is still alive. The parameters for this work is that both clocks must be standard, commercial clocks that are 13 1/2." Both clocks must be touching and start at the same time. An interesting component of this work is that if one clock stops they must be reset to start over. 
 Before Ross' death Felix Gonzalex drew a rendering of the two clocks and wrote to him “Don’t be afraid of the clocks, they are our time, the time has been so generous to us. We imprinted time with the sweet taste of victory. We conquered fate by meeting at a certain time in a certain space. We are a product of the time, therefore we give back credit were it is due: time. We are synchronized, now forever. I love you.” [^5]
 
-.ve-media flickr:7ESBUE  width=50%
+.ve-media grid
+-flickr:7ESBUE  width=50%
+-media flickr:dd3tqZ width=50%
 
 All of Torres' work is titled *"untitled"* with more details on the specific piece in the parenthesis next to it. While minimalism is his goal a reoccuring theme in his work is using large qualtities of those items. Aside from candy another medium he uses is large stacks of paper. Parameters set for these include the ideal height, width and depth of the piece. With his work he changes the way that art is also handled. With his pieces are ideas and not physical objects that are given to the museums. 
 On display now at the Milwaukee Art Museum is [*"Untitled" (Veterans Day Sale)*](https://collection.mam.org/details.php?id=1691). This piece is a stack of papers is titled Veterans day sale with the words printed on each paper. 
