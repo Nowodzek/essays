@@ -37,7 +37,7 @@ Before Ross' death Felix Gonzalex drew a rendering of the two clocks and wrote t
 
 
 
-All of Torres' work is titled *"untitled"* with more details on the specific piece in the parenthesis next to it. While minimalism is his goal a reoccuring theme in his work is using large qualtities of those items. Aside from candy another medium he uses is large stacks of paper. Parameters set for these include the ideal height, width and depth of the piece. 
+All of Torres' work is titled *"untitled"* with more details on the specific piece in the parenthesis next to it. While minimalism is his goal a reoccuring theme in his work is using large qualtities of those items. Aside from candy another medium he uses is large stacks of paper. Parameters set for these include the ideal height, width and depth of the piece. With his work he changes the way that art is also handled. With his pieces are ideas and not physical objects that are given to the museums. 
 On display now at the Milwaukee Art Museum is [*"Untitled" (Veterans Day Sale)*](https://collection.mam.org/details.php?id=1691). This piece is a stack of papers is titled Veterans day sale with the words printed on each paper. 
 A full archive of his work and exhibits can be found at the [Felix Gonzalez Torres Foundation.](https://www.felixgonzalez-torresfoundation.org/) 
 
