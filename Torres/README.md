@@ -48,7 +48,7 @@ A full archive of his work and exhibits can be found at the [Felix Gonzalez Torr
 
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
-.ve-footer
+##References
 [^1]: Alexander Conway [Félix González-Torres: Conceptualising the HIV Epidemic](https://felixonline.co.uk/articles/felix-gonzalez-torres-conceptualising-the-hiv-epidemic/) *Feli, *February 25, 2022.
 [^2]:Chambers-Letson, Josh Takano. [“CONTRACTING JUSTICE: THE VIRAL STRATEGY OF FELIX GONZALEZ-TORRES.”](https://www.jstor.org/stable/23131532) Criticism 51, no. 4 (2009): 559–87. 
 [^3]: Ho, Christopher. [“Within and beyond: Felix Gonzalez-Torres’s ‘Crowd.’”](https://www.jstor.org/stable/3246486) PAJ: A Journal of Performance and Art 23, no. 1 (2001): 1–17. 
