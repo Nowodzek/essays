@@ -43,11 +43,11 @@ A full archive of his work and exhibits can be found at the [Felix Gonzalez Torr
 
 
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
-
-[^1]: Stefanie Graf, [Felix Gonzalez-Torres: Haunting Works of an Artist Afflicted with AIDS](https://www.thecollector.com/felix-gonzalez-torres-haunting-works-aids-artist/) *The Collector,* May 30, 2021.
-[^1]:[Rounthwaite, Adair. [“Split Witness: Metaphorical Extensions of Life in the Art of Felix Gonzalez-Torres.”](https://www.jstor.org/stable/10.1525/rep.2010.109.1.35) Representations 109, no. 1 (2010): 35–56.
-[^2]: Lydia Figes, [Remembering artists impacted by the 1980s AIDS crisis](https://artuk.org/discover/stories/remembering-artists-impacted-by-the-1980s-aids-crisis) *Art UK,* February 20, 2020.
-[^3]: Alexander Conway [Félix González-Torres: Conceptualising the HIV Epidemic](https://felixonline.co.uk/articles/felix-gonzalez-torres-conceptualising-the-hiv-epidemic/) *Feli, *February 25, 2022.
-[^4]:Nathan Pugh [From Candy to Lightbulbs, Felix Gonzalez-Torres Showed Life and Loss Through Everyday Objects](https://www.smithsonianmag.com/smithsonian-institution/from-candy-to-lightbulbs-felix-gonzalez-torres-showed-life-and-loss-through-everyday-objects-180985302/) *Smithsonian Magazine,* October 24. 2024.
-[^5]:Rounthwaite, Adair. [“Split Witness: Metaphorical Extensions of Life in the Art of Felix Gonzalez-Torres.”](https://www.jstor.org/stable/10.1525/rep.2010.109.1.35) Representations 109, no. 1 (2010): 35–56.
-[^6]: Ho, Christopher. [“Within and beyond: Felix Gonzalez-Torres’s ‘Crowd.’”](https://www.jstor.org/stable/3246486) PAJ: A Journal of Performance and Art 23, no. 1 (2001): 1–17. 
+[^1]:Chambers-Letson, Josh Takano. [“CONTRACTING JUSTICE: THE VIRAL STRATEGY OF FELIX GONZALEZ-TORRES.”](https://www.jstor.org/stable/23131532) Criticism 51, no. 4 (2009): 559–87. 
+[^2]: Stefanie Graf, [Felix Gonzalez-Torres: Haunting Works of an Artist Afflicted with AIDS](https://www.thecollector.com/felix-gonzalez-torres-haunting-works-aids-artist/) *The Collector,* May 30, 2021.
+[^3]:[Rounthwaite, Adair. [“Split Witness: Metaphorical Extensions of Life in the Art of Felix Gonzalez-Torres.”](https://www.jstor.org/stable/10.1525/rep.2010.109.1.35) Representations 109, no. 1 (2010): 35–56.
+[^4]: Lydia Figes, [Remembering artists impacted by the 1980s AIDS crisis](https://artuk.org/discover/stories/remembering-artists-impacted-by-the-1980s-aids-crisis) *Art UK,* February 20, 2020.
+[^5]: Alexander Conway [Félix González-Torres: Conceptualising the HIV Epidemic](https://felixonline.co.uk/articles/felix-gonzalez-torres-conceptualising-the-hiv-epidemic/) *Feli, *February 25, 2022.
+[^6]:Nathan Pugh [From Candy to Lightbulbs, Felix Gonzalez-Torres Showed Life and Loss Through Everyday Objects](https://www.smithsonianmag.com/smithsonian-institution/from-candy-to-lightbulbs-felix-gonzalez-torres-showed-life-and-loss-through-everyday-objects-180985302/) *Smithsonian Magazine,* October 24. 2024.
+[^7]:Rounthwaite, Adair. [“Split Witness: Metaphorical Extensions of Life in the Art of Felix Gonzalez-Torres.”](https://www.jstor.org/stable/10.1525/rep.2010.109.1.35) Representations 109, no. 1 (2010): 35–56.
+[^8]: Ho, Christopher. [“Within and beyond: Felix Gonzalez-Torres’s ‘Crowd.’”](https://www.jstor.org/stable/3246486) PAJ: A Journal of Performance and Art 23, no. 1 (2001): 1–17. 
