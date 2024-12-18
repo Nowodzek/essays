@@ -33,7 +33,7 @@ One of the most interesting aspect of this exhibit getting over the notion of be
 .ve-media flickr:5gu3j1 width=60%
 
 Another impactful work by Felix Gonzalez Torres is ["Untitled" (Perfect lovers).](https://www.thelondonlist.com/culture/felix-gonzalez-torres) Two clocks are hung side by side and start at the same time. As the installation goes on, like many clocks they fall out of sync and will display different times. This is another representative of Ross and Gonzalez time together and the way that Ross has passed on and Gonzalez-Torres is still alive. The parameters for this work is that both clocks must be standard, commercial clocks that are 13 1/2." Both clocks must be touching and start at the same time. An interesting component of this work is that if one clock stops they must be reset to start over. 
-Before Ross' death Felix Gonzalex drew a rendering of the two clocks and wrote to him “Don’t be afraid of the clocks, they are our time, the time has been so generous to us. We imprinted time with the sweet taste of victory. We conquered fate by meeting at a certain time in a certain space. We are a product of the time, therefore we give back credit were it is due: time. We are synchronized, now forever. I love you.”
+Before Ross' death Felix Gonzalex drew a rendering of the two clocks and wrote to him “Don’t be afraid of the clocks, they are our time, the time has been so generous to us. We imprinted time with the sweet taste of victory. We conquered fate by meeting at a certain time in a certain space. We are a product of the time, therefore we give back credit were it is due: time. We are synchronized, now forever. I love you.” [^5]
 
 
 
@@ -45,9 +45,8 @@ A full archive of his work and exhibits can be found at the [Felix Gonzalez Torr
 .ve-video https://www.youtube.com/watch?v=37bSb-aQ4BM 
 
 [^1]: Stefanie Graf, [Felix Gonzalez-Torres: Haunting Works of an Artist Afflicted with AIDS](https://www.thecollector.com/felix-gonzalez-torres-haunting-works-aids-artist/) *The Collector,* May 30, 2021.
-
 [^1]:[Rounthwaite, Adair. [“Split Witness: Metaphorical Extensions of Life in the Art of Felix Gonzalez-Torres.”](https://www.jstor.org/stable/10.1525/rep.2010.109.1.35) Representations 109, no. 1 (2010): 35–56.
 [^2]: Lydia Figes, [Remembering artists impacted by the 1980s AIDS crisis](https://artuk.org/discover/stories/remembering-artists-impacted-by-the-1980s-aids-crisis) *Art UK,* February 20, 2020.
 [^3]: Alexander Conway [Félix González-Torres: Conceptualising the HIV Epidemic](https://felixonline.co.uk/articles/felix-gonzalez-torres-conceptualising-the-hiv-epidemic/) *Feli, *February 25, 2022.
 [^4]:Nathan Pugh [From Candy to Lightbulbs, Felix Gonzalez-Torres Showed Life and Loss Through Everyday Objects](https://www.smithsonianmag.com/smithsonian-institution/from-candy-to-lightbulbs-felix-gonzalez-torres-showed-life-and-loss-through-everyday-objects-180985302/) *Smithsonian Magazine,* October 24. 2024.
-[^5]:*Wikipedia* [Félix González-Torres](https://en.wikipedia.org/wiki/F%C3%A9lix_Gonz%C3%A1lez-Torres)
+[^5]:Rounthwaite, Adair. [“Split Witness: Metaphorical Extensions of Life in the Art of Felix Gonzalez-Torres.”](https://www.jstor.org/stable/10.1525/rep.2010.109.1.35) Representations 109, no. 1 (2010): 35–56.
